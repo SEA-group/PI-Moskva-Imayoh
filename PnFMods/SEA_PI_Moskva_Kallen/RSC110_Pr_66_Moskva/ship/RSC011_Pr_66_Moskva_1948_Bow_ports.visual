@@ -6,10 +6,10 @@
 	<node>
 		<identifier>	Scene Root	</identifier>
 		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 		</transform>
 		<node>
 			<identifier>	Bow_ports	</identifier>
@@ -19,6 +19,33 @@
 				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 			</transform>
+			<node>
+				<identifier>	HP_FX_Death_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 4.3484 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.4881 5.9250 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTrace	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 8.0672 1.0000	</row3>
+				</transform>
+			</node>
 			<node>
 				<identifier>	HP_RGM_1	</identifier>
 				<transform>
@@ -53,15 +80,6 @@
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 					<row3>	0.000000 1.007843 8.441530 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_Fire_Burn_1	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 6.552608 1.000000	</row3>
 				</transform>
 			</node>
 			<node>
