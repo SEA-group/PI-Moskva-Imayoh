@@ -1,4 +1,4 @@
-<C001_Net_alpha.mfm>
+<C001_Net.mfm>
 	<fx>	shaders/std_effects/grid_alpha.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
@@ -11,4 +11,4 @@
 	<property>	alphaReference
 		<Int>	145	</Int>
 	</property>
-</C001_Net_alpha.mfm>
+</C001_Net.mfm>
