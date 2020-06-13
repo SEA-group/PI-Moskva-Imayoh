@@ -13,4 +13,4 @@ Presented by SEA group
 * **Steam客户端用户**请把`PnFMods`和`PnFModsLoader.py`放到`steamapps/common/World of Warships/bin/[数字最大的那个]/res_mods/[版本号]/`里面
 
 ## Credits
-* All picture credits to miHoYo 
+* All pictures credit to miHoYo 
