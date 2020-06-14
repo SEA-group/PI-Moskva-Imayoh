@@ -1,6 +1,6 @@
 ﻿# Titanium Moskva - Ritual Arms Imayoh
 
-Skin modification for tier 10 aircraft carrier **Moskva**. 
+Skin modification for tier 10 cruiser **Moskva**. 
 
 Presented by SEA group
 
