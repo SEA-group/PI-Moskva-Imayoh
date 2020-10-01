@@ -38,6 +38,15 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	MidFront_Cross	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	MidFront_Net	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
@@ -112,6 +121,20 @@
 				<material>
 					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Moskva_Kallen/RSC110_Pr_66_Moskva/ship/RSC011_Pr_66_Moskva_1948.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_Cross	</node>
+		<geometry>
+			<vertices>	SEA_Eljudnir.vertices	</vertices>
+			<primitive>	SEA_Eljudnir.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_CrossX	</identifier>
+					<mfm>	PnFMods/SEA_PI_Moskva_Kallen/RSC110_Pr_66_Moskva/ship/RSC011_Pr_66_Moskva_1948_cross.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
