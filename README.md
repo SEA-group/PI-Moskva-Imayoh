@@ -14,3 +14,6 @@ Presented by SEA group
 
 ## Credits
 * All pictures credit to miHoYo 
+
+## Preview
+![PI-Moskva-Imayoh](https://raw.githubusercontent.com/SEA-group/PI-Moskva-Imayoh/master/Affiche.jpg)
