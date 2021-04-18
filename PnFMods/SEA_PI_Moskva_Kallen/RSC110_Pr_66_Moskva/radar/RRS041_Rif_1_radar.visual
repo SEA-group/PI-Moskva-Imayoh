@@ -75,7 +75,7 @@
 			<primitive>	RRS041_Rif_1_RadarShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
+					<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Moskva_Kallen/RSC110_Pr_66_Moskva/radar/RRS041_Rif_1_radar_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

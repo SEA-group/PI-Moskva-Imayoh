@@ -119,7 +119,7 @@
 			<primitive>	MidFront_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Moskva_Kallen/RSC110_Pr_66_Moskva/ship/RSC011_Pr_66_Moskva_1948.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -133,7 +133,7 @@
 			<primitive>	SEA_Eljudnir.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_CrossX	</identifier>
+					<identifier>	SHIPMATX_PBS_CrossX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Moskva_Kallen/RSC110_Pr_66_Moskva/ship/RSC011_Pr_66_Moskva_1948_cross.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -147,7 +147,7 @@
 			<primitive>	MidFront_patch_MidBack_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Moskva_Kallen/RSC110_Pr_66_Moskva/ship/RSC011_Pr_66_Moskva_1948.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -161,7 +161,7 @@
 			<primitive>	MidFront_DeckHouse_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Moskva_Kallen/RSC110_Pr_66_Moskva/ship/RSC011_Pr_66_Moskva_1948_deckhouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -175,7 +175,7 @@
 			<primitive>	MidFront_Net_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Net	</identifier>
+					<identifier>	SHIPMATX_PBS_Net	</identifier>
 					<mfm>	PnFMods/SEA_PI_Moskva_Kallen/RSC110_Pr_66_Moskva/ship/C001_Net.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -189,7 +189,7 @@
 			<primitive>	MidFront_patch_MidBack_DeckHouse_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Moskva_Kallen/RSC110_Pr_66_Moskva/ship/RSC011_Pr_66_Moskva_1948_deckhouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -203,7 +203,7 @@
 			<primitive>	MidFront_crack_Bow_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Moskva_Kallen/RSC110_Pr_66_Moskva/ship/RSC011_Pr_66_Moskva_1948.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -217,7 +217,7 @@
 			<primitive>	MidFront_crack_Bow_in_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_PI_Moskva_Kallen/RSC110_Pr_66_Moskva/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -231,7 +231,7 @@
 			<primitive>	MidFront_crack_MidBack_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Moskva_Kallen/RSC110_Pr_66_Moskva/ship/RSC011_Pr_66_Moskva_1948.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -245,7 +245,7 @@
 			<primitive>	MidFront_crack_MidBack_DeckHouse_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Moskva_Kallen/RSC110_Pr_66_Moskva/ship/RSC011_Pr_66_Moskva_1948_deckhouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -259,7 +259,7 @@
 			<primitive>	MidFront_crack_MidBack_in_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_PI_Moskva_Kallen/RSC110_Pr_66_Moskva/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
